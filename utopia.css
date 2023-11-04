@@ -1,0 +1,54 @@
+body {
+    background-color: #0f0f0f;
+}
+
+:root {
+    --button-outlined-fg: #ddd;
+
+}
+
+.meta__backdrop {
+    -webkit-mask-image: linear-gradient(180deg,#0006,transparent);
+}
+
+.torrent__name {
+    font-size: 27px;
+}
+
+.text-pink {
+    color: #c35353;
+}
+
+.mediainfo__general {
+    flex-basis: 33%;
+    margin-left: 80px;
+}
+
+.mediainfo__video {
+    flex-basis: 33%;
+}
+
+.mediainfo__audio {
+    flex-basis: 33%;
+}
+
+.panel__heading {
+    padding: 8px 0px 8px 9px;
+}
+
+.mediainfo__filename {
+    padding-bottom: 15px;
+}
+
+.fa-coins {
+    color: #d0c161;
+}
+
+.fa-bookmark {
+    color: #6a4298;
+}
+
+.fa-bookmark {
+    color: #54829b;
+}
+
